@@ -1,5 +1,5 @@
 <!-----------------------HOW TO DISPLAY HEADING USING HTML----------------------------- -->
-<!--<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +12,8 @@
         <h1>Hello World</h1>
     </div>
 </body>
-</html> -->
+</html> 
+
 
 
 <!-----------------------HOW TO DISPLAY HEADING USING JAVASCRIPT----------------------------- -->
@@ -35,7 +36,8 @@
         root.appendChild(headingElement);
     </script>
 </body>
-</html> 
+</html>  
+
 
 
 <!-- [1]---------------------HOW TO DISPLAY HEADING USING React----------------------------- -->
@@ -52,5 +54,13 @@
     </div>
     <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+    <script>
+        const headingElement = React.createElement("h1", {}, "Hello World from React");
+
+        const root = ReactDOM.createRoot(document.getElementById("root"));
+
+        root.render(headingElement);
+    </script>
 </body>
 </html> 
