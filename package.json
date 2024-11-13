@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React Course Learnings By Shibani Das",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sphinx161/Namaste-React.git"
+  },
+  "keywords": [],
+  "author": "Shibani Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sphinx161/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Sphinx161/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.0"
+  }
+}
