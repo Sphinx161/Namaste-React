@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "React Course Learnings By Shibani Das.",
   "scripts": {
+    "start" : "parcel Chapter-03-Laying-the-Foundation/Code/index.html",
+    "build" : "parcel build Chapter-03-Laying-the-Foundation/Code/index.html",
     "test": "jest"
   },
   "repository": {
