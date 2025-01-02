@@ -2,6 +2,20 @@ import React from "react";
 import ReactDOM from "react-dom/client"
 import logoImage from "./flavour-dash-logo.png"
 
+/*
+    1. Header
+        - Logo
+        - Nav Items
+    2. Body
+        - Search
+        - Restaurant Card
+    3. Footer
+        - Copyright
+        - Links
+        - Address
+        - Contact
+*/
+
 console.log("Reached")
 const Header = () => { 
 return (
@@ -118,6 +132,7 @@ const RestaurantCard = (props) => {
     )
 
 };
+
 
 const Body = () => {
     return (
