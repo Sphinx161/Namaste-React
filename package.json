@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React Course Learnings By Shibani Das.",
   "scripts": {
-    "start" : "parcel Chapter-04-Show-the-Code/Code/index.html",
+    "start" : "parcel Chapter-05-Lets-Get-Hooked/Code/index.html",
     "build" : "parcel build Chapter-04-Show-the-Code/Code/index.html",
     "test": "jest"
   },
