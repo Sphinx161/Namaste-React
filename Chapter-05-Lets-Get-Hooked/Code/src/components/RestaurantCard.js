@@ -1,7 +1,7 @@
 const RestaurantCard = (props) => {
     // props is a JavaScript Object
     // as it is Javascript the props.key must be enclosed in "{}" {props.key}
-    console.log(props); 
+    // console.log(props); 
     // Destructing of props object :
     // const {resName, cuisine, rating, delTime} = props
     const {resInfo} = props;
