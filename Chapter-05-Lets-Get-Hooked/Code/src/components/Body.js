@@ -12,6 +12,7 @@ const Body = () => {
             deliveryTime: "22 MINS",
             image: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/mkcibe6x1ychvzjkywxk",
         },
+        
         {
             id: "1002",
             name : "Cafe Niloufer",
